@@ -1,5 +1,6 @@
 # Auto_Tor_IP_changer V 2.1
 change your Ip Address automatically  This tool based on tor project
+Forked from FDX100/Auto_Tor_IP_changer
 
 
 how to install this tools :
